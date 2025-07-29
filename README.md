@@ -26,8 +26,8 @@ Our reading group covers various aspects of post-training research:
 
 ## ✋ How to Participate
 
-- Sign up for our mailing list
-- Show up to our events
+- Sign up for our [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSfKtuySdkMVQbR1PLZ4c-vCHm2rzbUmZAwyoThcgkxN1ifMRg/viewform)
+- Show up to our [events](https://lu.ma/event/manage/evt-d5yvXaoyYSgNgkn) 
 - Suggest papers for discussion
 - Co-organize sessions
 
